@@ -1,0 +1,16 @@
+{
+  "name": "indy-workshop",
+  "version": "0.0.0",
+  "description": "Simple Project to demostrate Node.js",
+  "main": "app.js",
+  "author": "Richard Key",
+  "license": "MIT",
+  "dependencies" : {
+    	"express": "~3.0.0",
+    	"socket.io" : "~0.9.10",
+	"mongodb":">=1.1.6",
+	"jsconfig":">=0.2.0",
+	"winston":">=0.6.2",
+	"redis":">=0.8.2"
+  }
+}
